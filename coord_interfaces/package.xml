@@ -3,7 +3,7 @@
   <name>coord_interfaces</name>
   <version>0.0.0</version>
   <description>ROS2 school competition</description>
-  <maintainer email="yiy@todo.todo">yiy</maintainer>
+  <maintainer email="2184400900@qq.com">yiy</maintainer>
   <license>Apache-2.0</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>rosidl_default_generators</build_depend>
